@@ -59,6 +59,7 @@
 ├── 📄 index.html       # Structure & buttons
 ├── 🎨 style.css        # Visual design and effects
 └── 🧠 script.js        # Math logic and functionality
+
 📦 Getting Started
 Clone the repo & start using it locally:git clone https://github.com/SahilRajput47/calculator.git
 cd Calculator
