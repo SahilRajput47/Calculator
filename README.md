@@ -28,7 +28,7 @@
 🔗 **[Try it now on GitHub Pages](https://sahilrajput47.github.io/calculator/)**  
 *(This is your live deployed version via GitHub Pages)*
 
-![Preview](preview.png)
+![Preview](Calculator.png)
 
 ---
 
