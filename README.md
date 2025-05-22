@@ -25,8 +25,7 @@
 
 ## 🚀 Live Demo
 
-🚀 Live here: [sahilrajput47.github.io/calculator](https://sahilrajput47.github.io/calculator/)**  
-*(This is your live deployed version via GitHub Pages)*
+> 🚀 Live here: [sahilrajput47.github.io/calculator](https://sahilrajput47.github.io/calculator/)
 
 ![Preview](Calculator.png)
 
